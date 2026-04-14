@@ -1,0 +1,12 @@
+{
+  "name": "liberty-engine",
+  "version": "0.1.0",
+  "description": "A free and modular game engine focused on creative freedom.",
+  "scripts": {
+    "dev": "node_modules/.bin/serve . --listen 5000 --no-clipboard"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
